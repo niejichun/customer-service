@@ -1,0 +1,8 @@
+faiss-cpu==1.8.0
+modelscope==1.13.3
+langchain==0.1.14
+langchain-community==0.0.31
+langchain-core==0.1.48
+langsmith==0.1.49
+pydantic==2.5.3
+numpy==1.24.4
